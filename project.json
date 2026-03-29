@@ -1,0 +1,10 @@
+{
+  "name": "issue-34853",
+  "$schema": "node_modules/nx/schemas/project-schema.json",
+  "includedScripts": [],
+  "sourceRoot": "./src",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project issue-34853 --web",
+  "targets": {}
+}
